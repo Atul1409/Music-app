@@ -1211,7 +1211,7 @@ i:hover{
                 flex-direction:column;
         background-size:cover;
         color:#fff;
-        padding:1em;
+        padding:0em;
         background-position:top center;
         background-attachment:fixed;
         background-repeat:no-repeat; 
